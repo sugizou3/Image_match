@@ -1,0 +1,8 @@
+/pickle/
+/csv_生データ/
+/csv_画像一致後データ/
+/temp/
+/一時保存/
+/colabBook_csv保存用/
+/__pycache__/
+*.pyc
